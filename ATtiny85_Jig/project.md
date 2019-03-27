@@ -15,6 +15,6 @@ I then soldered all of this wiring onto a circuit board with male headers to plu
 
 ![Rigged circuit](images/rigged.JPG)
 
-Using soldering boards like this allow us to quickly and easily prototype circuitry on an easy to manage interface. Additionally, it is almost a blown up verson of what we will be making once we start milling our own PCB boards. 
+Using soldering boards like this allow us to quickly prototype circuitry on an easy to manage interface. Additionally, it is almost a blown up verson of what we will be making once we start milling our own PCB boards. 
 
 

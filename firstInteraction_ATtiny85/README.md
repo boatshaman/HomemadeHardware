@@ -1,3 +1,5 @@
+# ATtiny85 First Interaction
+
 Our first assignment was to make a simple interactive system with the ATtiny85 acting as our microcontroller instead of, say, the Arduino Uno. 
 
 This allows us to make our own interactive devices without the need to include a full comercial microcontroller and instead just make our own. 

@@ -8,7 +8,7 @@ I used the [programming rig](https://github.com/boatshaman/HomemadeHardware/tree
 
 Here is a video of the simple interaction:
 
-![Interaction](media/push.gif)
+![Interaction](media/push1.gif)
 
 I was actually running into a lot of trouble with getting it to work at first and I thought I had actually broke my microcontroller. 
 

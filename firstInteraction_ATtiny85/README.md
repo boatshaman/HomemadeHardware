@@ -9,6 +9,7 @@ I used the programming rig that we created to upload simple arduino code which t
 
 
 Here is a video of the simple interaction:
+
 ![Interaction](media/push.gif)
 
 

@@ -5,6 +5,6 @@
 
 
 * [ATtiny85 Programming Rig in class exercies](https://github.com/boatshaman/HomemadeHardware/tree/master/ATtiny85_Jig)
-
+* [ATtiny85 First Interaction](https://github.com/boatshaman/HomemadeHardware/tree/master/firstInteraction_ATtiny85)
 
 

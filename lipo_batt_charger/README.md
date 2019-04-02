@@ -17,8 +17,9 @@ Seriously, this is super cool and I am very excited to try and make circuit boar
 * push pin
 * solder paste
 
-(note: all these materials are much smaller than the parts I've used before to build cicruits because they are meant to sit directly on a printed circuit board)
+__(note: all these materials are much smaller than the parts I've used before to build cicruits because they are meant to sit directly on a printed circuit board)__
 
+![Parts](pics/parts.JPG)
 
 ### Process
 

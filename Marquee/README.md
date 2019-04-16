@@ -5,7 +5,7 @@ This week we all were tasked with making a single letter in a Marquee sign. I wa
 
 The hard part about this is we needed to make it completely from scratch. Design the schematic and circuit board on Eagle ([marquee.sch](eagle/marquee.sch) and [marquee.brd](eagle/marquee.brd) respectively), drill the board using Bantam and the Othermill PCB milling machines, add solder paste and SMD components by hand, solder additional parts on, and finally code an ATtiny 85 and stick it into the board. 
 
-As my first time creating a circuit board from scratch I would say it went decently well. Here is the schematic: 
+As my first time creating a circuit board from scratch I would say it went decently well. Here is the schematic provided by professor with minor modifications: 
 
 ![Schematic](pics/schem.png)
 

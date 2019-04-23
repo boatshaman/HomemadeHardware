@@ -9,7 +9,7 @@ For this I will need (will be checked off as it arives):
 - [ ] [RFM69](https://www.digikey.com/product-detail/en/sparkfun-electronics/COM-13909/1568-1394-ND/6023504) for communication
 - [ ] [Capactvie Touch IC](https://www.digikey.com/product-detail/en/microchip-technology/AT42QT1010-TSHR/AT42QT1010-TSHRCT-ND/2268871)
 - [X] transistor for vibrator
-- [ ] [Vibaration Motor](https://www.digikey.com/product-detail/en/jinlong-machinery-&-electronics,-inc/G0832012/1670-1034-ND/7364317&?gclid=EAIaIQobChMIiL_IqJPl4QIVyYuzCh0B7QY_EAQYAiABEgJBrfD_BwE)
+- [ ] [Vibaration Motor](https://www.digikey.com/product-detail/en/adafruit-industries-llc/1201/1528-1177-ND/5353637)
 - [ ] [Small Lipo Batteries](https://www.adafruit.com/product/2750)
 
 

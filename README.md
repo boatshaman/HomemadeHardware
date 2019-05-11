@@ -10,6 +10,7 @@
 * [Eagle First Homework](https://github.com/boatshaman/HomemadeHardware/tree/master/EagleFirstHW)
 * [Marquee Board - Letter 'O'](https://github.com/boatshaman/HomemadeHardware/tree/master/Marquee)
 * [Final Project BOM](https://github.com/boatshaman/HomemadeHardware/blob/master/FinalProject_BOM)
+* [Final Project](https://github.com/boatshaman/HomemadeHardware/tree/master/Final%20Board)
 
 
 
